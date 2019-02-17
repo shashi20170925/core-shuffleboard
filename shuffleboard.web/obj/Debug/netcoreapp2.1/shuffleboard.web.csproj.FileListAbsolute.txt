@@ -1,0 +1,14 @@
+C:\MyCore\shuffleboard\shuffleboard.web\bin\Debug\netcoreapp2.1\shuffleboard.web.deps.json
+C:\MyCore\shuffleboard\shuffleboard.web\bin\Debug\netcoreapp2.1\shuffleboard.web.runtimeconfig.json
+C:\MyCore\shuffleboard\shuffleboard.web\bin\Debug\netcoreapp2.1\shuffleboard.web.runtimeconfig.dev.json
+C:\MyCore\shuffleboard\shuffleboard.web\bin\Debug\netcoreapp2.1\shuffleboard.web.dll
+C:\MyCore\shuffleboard\shuffleboard.web\bin\Debug\netcoreapp2.1\shuffleboard.web.pdb
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.csprojAssemblyReference.cache
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.csproj.CoreCompileInputs.cache
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.RazorAssemblyInfo.cache
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.RazorAssemblyInfo.cs
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.AssemblyInfoInputs.cache
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.AssemblyInfo.cs
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.RazorTargetAssemblyInfo.cache
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.dll
+C:\MyCore\shuffleboard\shuffleboard.web\obj\Debug\netcoreapp2.1\shuffleboard.web.pdb
