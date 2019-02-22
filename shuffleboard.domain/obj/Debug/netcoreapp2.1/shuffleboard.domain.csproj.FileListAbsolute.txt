@@ -1,0 +1,9 @@
+C:\MyCore\shuffleboard\shuffleboard.domain\bin\Debug\netcoreapp2.1\shuffleboard.domain.deps.json
+C:\MyCore\shuffleboard\shuffleboard.domain\bin\Debug\netcoreapp2.1\shuffleboard.domain.dll
+C:\MyCore\shuffleboard\shuffleboard.domain\obj\Debug\netcoreapp2.1\shuffleboard.domain.csprojAssemblyReference.cache
+C:\MyCore\shuffleboard\shuffleboard.domain\obj\Debug\netcoreapp2.1\shuffleboard.domain.csproj.CoreCompileInputs.cache
+C:\MyCore\shuffleboard\shuffleboard.domain\obj\Debug\netcoreapp2.1\shuffleboard.domain.AssemblyInfoInputs.cache
+C:\MyCore\shuffleboard\shuffleboard.domain\obj\Debug\netcoreapp2.1\shuffleboard.domain.AssemblyInfo.cs
+C:\MyCore\shuffleboard\shuffleboard.domain\bin\Debug\netcoreapp2.1\shuffleboard.domain.pdb
+C:\MyCore\shuffleboard\shuffleboard.domain\obj\Debug\netcoreapp2.1\shuffleboard.domain.dll
+C:\MyCore\shuffleboard\shuffleboard.domain\obj\Debug\netcoreapp2.1\shuffleboard.domain.pdb

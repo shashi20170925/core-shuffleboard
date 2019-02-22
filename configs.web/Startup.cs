@@ -17,6 +17,12 @@ namespace configs.web
         public Startup(IHostingEnvironment env)
         {
             var builder = new ConfigurationBuilder()
+                     .AddInMemoryCollection(new List<KeyValuePair<string, string>>
+                {
+                    new KeyValuePair<string, string>("dynamoSetting1","SettingsValue1" ),
+                    new KeyValuePair<string, string>("dynamoSetting2","SettingsValue2" )
+
+                })
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: false, reloadOnChange: true)
