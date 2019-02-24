@@ -21,7 +21,7 @@ namespace configs.web.Controllers
         }
         public string Index()
         {
-            return "Index action ";
+            return "Index action " + _appSettings.Environment;
         }
     }
 }

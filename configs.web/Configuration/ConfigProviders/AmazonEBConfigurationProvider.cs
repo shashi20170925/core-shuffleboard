@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json.Linq;
+using System;
 using System.IO;
 using System.Linq;
 
@@ -19,6 +20,7 @@ namespace shuffleboard.web.ebt.deploy.Configuration.ConfigProviders
                 string configJson;
                 try
                 {
+                
                     configJson = File.ReadAllText(ConfigurationFilename);
                 }
                 catch
