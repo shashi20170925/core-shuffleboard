@@ -1,0 +1,11 @@
+C:\MyCore\shuffleboard\configs.web\bin\Release\netcoreapp2.0\configs.web.deps.json
+C:\MyCore\shuffleboard\configs.web\bin\Release\netcoreapp2.0\configs.web.runtimeconfig.json
+C:\MyCore\shuffleboard\configs.web\bin\Release\netcoreapp2.0\configs.web.runtimeconfig.dev.json
+C:\MyCore\shuffleboard\configs.web\bin\Release\netcoreapp2.0\configs.web.dll
+C:\MyCore\shuffleboard\configs.web\bin\Release\netcoreapp2.0\configs.web.pdb
+C:\MyCore\shuffleboard\configs.web\obj\Release\netcoreapp2.0\configs.web.csprojAssemblyReference.cache
+C:\MyCore\shuffleboard\configs.web\obj\Release\netcoreapp2.0\configs.web.csproj.CoreCompileInputs.cache
+C:\MyCore\shuffleboard\configs.web\obj\Release\netcoreapp2.0\configs.web.AssemblyInfoInputs.cache
+C:\MyCore\shuffleboard\configs.web\obj\Release\netcoreapp2.0\configs.web.AssemblyInfo.cs
+C:\MyCore\shuffleboard\configs.web\obj\Release\netcoreapp2.0\configs.web.dll
+C:\MyCore\shuffleboard\configs.web\obj\Release\netcoreapp2.0\configs.web.pdb

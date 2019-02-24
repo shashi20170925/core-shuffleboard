@@ -1,0 +1,10 @@
+C:\MyCore\shuffleboard\shuffleboard.exceptions\bin\Debug\netcoreapp2.0\shuffleboard.exceptions.deps.json
+C:\MyCore\shuffleboard\shuffleboard.exceptions\bin\Debug\netcoreapp2.0\shuffleboard.exceptions.runtimeconfig.json
+C:\MyCore\shuffleboard\shuffleboard.exceptions\bin\Debug\netcoreapp2.0\shuffleboard.exceptions.runtimeconfig.dev.json
+C:\MyCore\shuffleboard\shuffleboard.exceptions\bin\Debug\netcoreapp2.0\shuffleboard.exceptions.dll
+C:\MyCore\shuffleboard\shuffleboard.exceptions\bin\Debug\netcoreapp2.0\shuffleboard.exceptions.pdb
+C:\MyCore\shuffleboard\shuffleboard.exceptions\obj\Debug\netcoreapp2.0\shuffleboard.exceptions.csproj.CoreCompileInputs.cache
+C:\MyCore\shuffleboard\shuffleboard.exceptions\obj\Debug\netcoreapp2.0\shuffleboard.exceptions.AssemblyInfoInputs.cache
+C:\MyCore\shuffleboard\shuffleboard.exceptions\obj\Debug\netcoreapp2.0\shuffleboard.exceptions.AssemblyInfo.cs
+C:\MyCore\shuffleboard\shuffleboard.exceptions\obj\Debug\netcoreapp2.0\shuffleboard.exceptions.dll
+C:\MyCore\shuffleboard\shuffleboard.exceptions\obj\Debug\netcoreapp2.0\shuffleboard.exceptions.pdb

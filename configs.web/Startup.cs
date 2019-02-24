@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using shuffleboard.web.ebt.deploy.Configuration.ConfigProviders;
 
 namespace configs.web
 {
@@ -26,6 +27,7 @@ namespace configs.web
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: false, reloadOnChange: true)
+                //.AddAmazonElasticBeanstalk()    // <-- Merge with other sources
                 .AddEnvironmentVariables();
             Configuration = builder.Build();
 
@@ -37,6 +39,9 @@ namespace configs.web
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<AppSettings>(Configuration.GetSection("ApplicationSettings"));
+          //  services.Configure<EnvironmentTest>(Configuration.GetSection("iis:env"));
+
+
             services.AddMvc();
         }
 
