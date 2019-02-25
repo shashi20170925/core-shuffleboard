@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shuffleboard.exception", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shuffleboard.web.ebt.deploy", "shuffleboard.web.ebt.deploy\shuffleboard.web.ebt.deploy.csproj", "{B7DEA060-D2F6-49C6-8D41-9B1A27FDFBE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shuffleboard.web.routing", "shuffleboard.web.routing\shuffleboard.web.routing.csproj", "{0F52003C-8CE9-40B8-B0E1-7C1CC4C832C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shuffleboard.routing.conventional", "shuffleboard.routing.conventional\shuffleboard.routing.conventional.csproj", "{4E273E14-E787-4D92-97F8-9667501C63C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B7DEA060-D2F6-49C6-8D41-9B1A27FDFBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7DEA060-D2F6-49C6-8D41-9B1A27FDFBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7DEA060-D2F6-49C6-8D41-9B1A27FDFBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F52003C-8CE9-40B8-B0E1-7C1CC4C832C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F52003C-8CE9-40B8-B0E1-7C1CC4C832C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F52003C-8CE9-40B8-B0E1-7C1CC4C832C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F52003C-8CE9-40B8-B0E1-7C1CC4C832C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E273E14-E787-4D92-97F8-9667501C63C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E273E14-E787-4D92-97F8-9667501C63C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E273E14-E787-4D92-97F8-9667501C63C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E273E14-E787-4D92-97F8-9667501C63C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

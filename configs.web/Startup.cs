@@ -27,7 +27,7 @@ namespace configs.web
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: false, reloadOnChange: true)
-                .AddAmazonElasticBeanstalk()    // <-- Merge with other sources
+                //.AddAmazonElasticBeanstalk()    // <-- Merge with other sources
                 .AddEnvironmentVariables();
             Configuration = builder.Build();
 
